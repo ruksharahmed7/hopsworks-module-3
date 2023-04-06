@@ -1,3 +1,10 @@
 *.parquet
 __pycache*
 .hw_api_key
+iris_model
+cc_fraud_model
+predict_example.py
+ca_chain
+certfile
+keyfile
+fraud_counts.*
